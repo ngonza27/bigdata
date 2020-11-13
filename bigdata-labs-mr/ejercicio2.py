@@ -44,7 +44,8 @@ class MRWordFrequencyCount(MRJob):
 	acciones = []
 	for date, price in l:
 		price = int(price)
-		start = price
+		if price >= start:
+			start = price
 	if (start == int(maxv)):
        		yield "Esta accion subio o se mantuvo:", key
 	else:
