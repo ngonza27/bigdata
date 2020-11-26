@@ -109,6 +109,3 @@ $ sqoop create-hive-table --connect jdbc:mysql://34.236.231.151:3306/cursodb --u
 ```
 sqoop import --connect jdbc:mysql://34.236.231.151:3306/cursodb --username curso -P --table employee --hive-import --hive-database mydbhive --hive-table employee -m 1 --mysql-delimiters
 ```
-
-Reto
-¿cómo llenar una tabla con los resultados de un Query? por ejemplo, como almacenar en una tabla el diccionario de frecuencia de palabras en el wordcount?
