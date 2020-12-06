@@ -1,8 +1,8 @@
-<center>INGENIERÍA DE SISTEMAS</center>
-<center>UNIVERSIDAD EAFIT</center>
-<center>STO0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2020-2</center>
-<center>GRUPO 002</center>
-<center>PROYECTO 3 – BIG DATA / SPARK</center>
+<center>INGENIERÍA DE SISTEMAS</center><br/>
+<center>UNIVERSIDAD EAFIT</center><br/>
+<center>STO0263 TÓPICOS ESPECIALES EN TELEMÁTICA, 2020-2</center><br/>
+<center>GRUPO 002</center><br/>
+<center>PROYECTO 3 – BIG DATA / SPARK</center><br/>
 
 
 ## Autores
