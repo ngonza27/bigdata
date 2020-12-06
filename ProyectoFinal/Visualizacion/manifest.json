@@ -1,0 +1,18 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://proyecto-big-data.s3.amazonaws.com/stock_data/part-00000-9bbb8fad-b6c7-4e5e-b232-80e2488690c8-c000.csv",
+                "https://proyecto-big-data.s3.amazonaws.com/stock_data/part-00001-9bbb8fad-b6c7-4e5e-b232-80e2488690c8-c000.csv",
+                "https://proyecto-big-data.s3.amazonaws.com/stock_data/part-00002-9bbb8fad-b6c7-4e5e-b232-80e2488690c8-c000.csv",
+                "https://proyecto-big-data.s3.amazonaws.com/stock_data/part-00003-9bbb8fad-b6c7-4e5e-b232-80e2488690c8-c000.csv",
+            ]
+        },
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
