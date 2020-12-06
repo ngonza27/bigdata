@@ -13,4 +13,4 @@
 * Nicolas Gonzalez Vallejo - ngonza27@eafit.edu.co
 
 ## Arquitectura
-![img](./Fuente/static/arquitectura.PNG)
+![img](https://github.com/ngonza27/bigdata/blob/master/ProyectoFinal/Fuente/static/arquitectura.png)
